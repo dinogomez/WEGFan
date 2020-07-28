@@ -9,7 +9,7 @@
 <a href="https://github.com/WEGFan/codestats-profile-readme">
   <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=WEGFan&repo=codestats-profile-readme" alt="codestats-profile-readme" />
 </a>
-<a href="https://github.com/WEGFan/Qiangzhi-Auto-Fetch-Score">
+<a href="https://github.com/dinogomez/difftime.js">
   <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=WEGFan&repo=Qiangzhi-Auto-Fetch-Score" alt="Qiangzhi-Auto-Fetch-Score" />
 </a>
 
